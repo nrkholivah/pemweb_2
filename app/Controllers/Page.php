@@ -28,3 +28,4 @@ class Page extends BaseController
         echo "Alamat: Pare, Kediri<br>";
     }
 }
+
